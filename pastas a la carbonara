@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pastas a la Carbonara</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <h1>Cómo Preparar Pastas a la Carbonara</h1>
+    <hr>
+
+    <img src="imagenes/pastas.jpg" width="600" height="400" alt="Pastas a la Carbonara">
+
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>200 g de pasta (espaguetis, rigatoni o fettuccine).</li>
+        <li>100 g de guanciale (puedes usar panceta si no consigues guanciale).</li>
+        <li>2 yemas de huevo + 1 huevo entero.</li>
+        <li>50 g de queso Pecorino Romano rallado (o queso parmesano si no consigues Pecorino).</li>
+        <li>Pimienta negra recién molida al gusto.</li>
+        <li>Sal (con moderación, porque el queso y el guanciale ya son salados).</li>
+    </ul>
+
+    <hr>
+
+    <h2>Pasos de Preparación</h2>
+    <ol>
+        <li>Pon una olla con agua a hervir y añade sal.</li>
+        <li>Cocina la pasta al dente según el tiempo indicado en el paquete.</li>
+        <li>Corta el guanciale en tiras o cubos pequeños.</li>
+        <li>En una sartén caliente (sin aceite), sofríe el guanciale a fuego medio hasta que esté crujiente y suelte su grasa (aprox. 5 minutos).</li>
+        <li>En un bowl, mezcla las yemas de huevo + 1 huevo entero.</li>
+        <li>Agrega el queso Pecorino Romano rallado y pimienta negra.</li>
+        <li>Añade la pasta caliente a la sartén con el guanciale y mézclala bien.</li>
+        <li>Remueve rápidamente para que la salsa se vuelva cremosa (no debe cocinarse como huevo revuelto).</li>
+        <li>Si es necesario, añade un poco del agua de cocción reservada para ajustar la textura.</li>
+        <li>Sirve la pasta inmediatamente.</li>
+        <li>Espolvorea más queso Pecorino y pimienta negra al gusto.</li>
+    </ol>
+
+    <hr>
+
+    <h2>Video de cómo hacer Pastas a la Carbonara</h2>
+    <video width="640" height="360" controls>
+        <source src="videos/Cómo hacer PASTA CARBONARA!.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento de video.
+    </video>
+
+    <hr>
+
+    <footer>
+        <h3>Si te gustó esta receta, te recomiendo ver las otras dos.</h3>
+    </footer>
+
+</body>
+</html>
